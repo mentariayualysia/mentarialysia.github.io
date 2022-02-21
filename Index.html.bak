@@ -1,0 +1,240 @@
+<html lang="id" translate="yes">
+    <head>
+        <meta name="viewport" content="width=device-width initial-scale=1">
+        <title> Mentari Ayu Alysia Sudrajat</title>
+        <link rel="stylesheet" href="assets/style/style.css">
+    </head>
+    <body>
+        <header>
+            <div class="jumbotron">
+                <h1>Mentari Ayu Alysia Sudrajat</h1>
+                <p><i> D4 Teknik Informatika - 211524047</i></p>
+            </div>
+            <nav><marquee>
+                <ul>
+                    <li><a href="#Profil">Profil</a></li>
+                    <li><a href="#Pendidikan"> Pendidikan</a></li>
+                    <li><a href="#Pengalaman"> Pengalamanan</a></li>
+                    <li><a href="#Personalitas">Personalitas</a></li>
+                </ul>
+                </marquee>
+            </nav>
+        </header>
+        <main>
+            <div id="content">
+                <article class="card" id="Profil">
+                    <h2 id="Profil">Profil</h2>
+                    <p>
+                        Hallo! Nama saya Mentari, Saat ini saya tengah menempuh pendidikan di Politeknik Negeri Bandung, Jurusan Teknik Komputer dan Informatika, Program Studi D4 Teknik Informatika. 
+						Saya sangat termotivasi untuk menjadi seorang <em>Programmer</em> yang kompeten dan bertanggung jawab. Saya tertarik dengan dunia IT, khususnya pemrograman. Saya menyukai hal yang membuat kemampuan, minat dan bakat saya menjadi berkembang.
+                    </p><br>
+					<h4> Motto Hidup</h4>
+					<p>
+						Tidak ada Menusia yang sempurna. tiap orang memang punya keterbatasan, namun setiap orang juga punya kelebihannya masing-masing. 
+						Keterbatasan tidak harus membatasi kita dalam menggapai cita - cita. Karena apapun keterbatasan kita,<b><q>jika kita mau, kita pasti mampu!</b></q>
+					</p><br>
+					<h4> Hobby </h4>
+					<p> Pada saat waktu luang, biasanya saya mengisi waktu luang saya dengan memasak, karena hobby saya memasak. Terkadang juga saya melatih skill pemrograman saya di platform pendidikan, seperti <a href="https://www.dicoding.com" class="sub"> dicoding</a>
+                </article>
+                <article class="card" id="Pendidikan">
+                    
+                    <H2> Pendidikan</H2>
+                    <div class="utama">
+                     <div class="isi">
+                      <div class="isi2" id="slide">
+                       <div class="inti" >
+                        <img id="slide" src="assets/image/logo.png">
+                        <pree>Tut Wuri Handayani</pree>
+                       </div>
+             
+                       <div class="inti">
+                        <img id="slide" src="assets/image/SMP.jpg">
+                        <pree>SMP Negeri I Paseh</pree>
+
+                       </div>
+                       <div class="inti">
+                          
+                        <img id="slide" src="assets/image/SMK.jpg">
+                        <pree>SMK Itikurih Hibarna</pree>
+                       </div>
+					   <div class="inti">
+                          
+                        <img id="slide" src="assets/image/polban.jpg">
+                        <pree>Politeknik Negeri Bandung</pree>
+                       </div>
+                      </div>
+                      </div>
+                      </div>
+                    <p>Tiap orang mempunyai hak yang sama untuk memperoleh pendidikan, dan kita haruslah bersyukur akan kesempatan yang kita dapat dalam memperoleh pendidikan yang layak, karena tidak semua orang memiliki kesempatan seperti kita. Dan berikut adalah riwayat pendidikan yang telah saya tempuh.</p><br>
+                  <section>
+                    <h3 id="SMP"> SMP Negeri 1 Paseh</h3>
+                    <img class="gambar" src="assets/image/SMP.jpg" atl="SMPN I PASEH">
+                    <p>Setelah lulus dari Sekolah Dasar, saya memutuskan untuk melanjutkan pendidikan saya di sini. Dulu, SMPN I Paseh merupakan Sekolah yang cukup favorit di lingkungan saya tinggal, dan saya merasa bangga dapat lulus seleksi dan menempuh pendidikan di sekolah ini. </p>
+                  </section>
+                  <section>
+                    <h3 id="SMK"> SMK Itikurih Hibarna</h3>
+                    <img class="gambar" src="assets/image/SMK.jpg" atl="SMK Itikurih Hibarna">
+                    <p> Yap! Setelah saya lulus dari Sekolah Menengah Pertama, <a href="#SMP" class="sub">SMPN I Paseh</a>, saya putuskan untuk melanjutkan pendidikan ke Sekolah Menengah Kejuruan (SMK). Banyak pengalaman dan kisah tak terlupakan di sekolah ini, walaupun bukan sekolah Negeri, namun fasilitas, kualitas, kondisi, tenaga pengajar serta ilmu yang saya dapat disini amat sangat baik.</p>
+                    <p> Disini juga saya mulai belajar pemrograman dan menjadi siswa yang cukup aktif, beberapa kali saya meraih prestasi, diantaranya :</p>
+                    <ul>
+                      <li> Tingkat Kelas 
+                        <ul>
+                          <li>
+                            Peringkat 3 di kelas 10
+                          </li>
+                          <li>
+                            Peringkat 2 di kelas 11
+                          </li>
+                          <li>
+                            Peringkat 1 di kelas 12
+                          </li>
+                        </ul>
+                      </li>
+                      <li> Tingkat sekolah
+                        <ul>
+                          <li>Juara 1 Cerpen tingkat sekolah
+                          </li>
+                          <li> Juara 3 Pidato tingkat sekolah
+                          </li>
+                        </ul>
+                      </li>
+                      <li>Lain-lain
+                        <ul>
+                          <li>Juara 3 LCC <em>(grup)</em> 2018
+                          </li>
+                          <li>
+                            Lulus Sertifikasi Mikrotik (MTCNA) 2019
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </section>
+				  <section>
+                    <h3 id="Polban"> Politeknik Negeri Bandung</h3>
+                    <img class="gambar" src="assets/image/Polban.jpg" atl="SMPN I PASEH">
+                    <p>Setelah lulus dari Sekolah Menegah Kejuruan, saya mencoba mendaftar ke beberapa perguruan tinggi, salah satunya adalah Politeknik Negeri Bandung. Alhamdulillah ternyata saya diterima di 2 PTN, dan kini saya memutuskan untuk melanjutkan pendidikan saya di Polban. <br>
+					</p>
+					<h4> Harapan Setelah Lulus </h4>
+					<p>Saya mempunyai cita - cita menjadi seorang dosen atau menjadi seorang <i>Aplication Developer</i>. Harapan saya setelah lulus dari Politeknik Negeri Bandung adalah semoga saya mampu mengamalkan ilmu - ilmu yang telah saya dapat di JTK. Harapan lain saya adalah semoga saya mendapat pekerjaan yang sesuai dengan keinginan saya serta dapat membanggakan orang tua dan keluarga saya.</p>					
+                  </section>
+                </article>
+                <article class="card" id="Pengalaman">
+                    <h2> Pengalaman</h2>
+                    <img class="gambar" src="assets/image/Len2.jpg">
+                    <p>Selulusnya saya dari <a href="#SMK" class="sub"> SMK Itikurih Hibarna</a>, saya hanya mengikuti pelatihan komputer di lembaga pelatihan, dan telah mendapatkan sertifikat Microsoft office. walaupun saya belum pernah bekerja setelah lulus sekolah, namun saya tetap memiliki pengalaman bekerja, berikut adalah pengalaman saya dalam bekerja.</p>
+                    <h3> PT. LEN Industri (Persero)</h3>
+                    <p> Ketika saya tengah menempuh pendidikan di SMK, tepatnya awal kelas XI, saya melaksanakan praktik kerja industri (Prakerin). Saya mencoba mendaftarkan diri di PT. LEN Industri (Persero) Bandung bersama teman-teman saya. Dan Alhamdulillah, saya dan teman saya lulus seleksi dan melaksanakan Prakerin di perusahaan BUMN ini, disini saya mendapat cukup banyak teman baru serta ilmu, dan disinilah saya mempunyai pengalaman bekerja.</p>
+                  <section>
+                   <h4> Staff IT</h4>
+                   <p>Awalnya saya ditempatkan dibagian yang berkaitan dengan jurusan saya, yakni Teknik Komputer dan Jaringan (TKJ), tepatnya di bagian Sistem Informasi (Sisfo). Disini saya bertugas sebagai petugas yang tugasnya membantu karyawan memperbaiki permasalahan yang berkaitan dengan Komputer dan Jaringan. Dapat saya simpulkan, beberapa tugas saya adalah sebagai berikut :</p>
+                   <ul>
+                      <li>Mengatasi permasalahan komputer </li>
+                      <li>Mengatasi permasalah seputar jaringan</li>
+                      <li>Melakukan perawatan & perbaikan komputer</li>
+                      <li>Membantu pemasangan Sistem Operasi maupun <i>software</i> aplikasi</li>
+                   </ul>
+                  </section>
+                  <section>
+                   <h4> Staff Administrasi</h4>
+                   <p> Dikarenakan ada beberapa peserta Prakerin dari jurusan TKJ yang tidak ditempatkan sesuai jurusannya, maka peserta yang berada di bagian Sisfo pun bertukar tempat dengan peserta di bagian lain, termasuk saya. Saya akhirnya dipindahkan di bagian <em> Inventory Control</em> disini tugas saya berkaitan dengan Admistrasi, dan dapat saya simpulkan tugas saya adalah sebagai berikut : </p>
+                   <ul>
+                       <li>Menggandakan Dokumen</li>
+                       <li>Mengarsipkan dokumen</li>
+                      <li>Melakukan <i>input/output</i> data</li>
+                      <li>Melakukan pembukuan harian & mingguan</li>
+                      <li>Melakukan perubahan & perbaikan dokumen</li>
+                   </ul>
+                  </section>
+                </article>
+                <article class="card" id="Personalitas">
+                    <h2>Minat & Keahlian</h2>
+                      <img src="assets/image/MB.png" class="gambar">
+                    <p>Tiap orang pasti memiliki kepribadian, minat, bakat, serta keahlian yang berbeda-beda. Mereka hidup dengan saling membantu & melengkapi satu sama lain. Tak jarang beberapa dari hal tersebut menjadi syarat dalam melamar suatu pekerjaan, ataupun mendaftar untuk melanjutkan pendidikan. Berikut adalah minat dan keahlian yang saya miliki.</p>
+                    <section><br>
+                    <h3>Minat</h3>
+                    <p> Saya tertarik dengan hal yang berkaitan dengan matematika, hitungan dan logika, juga menulis/mengarang cerita, serta hal yang berkaitan dengan komputer, terutama pemrograman.</p>
+                    </section>
+                    <section><br>
+                    <h3>Keahlian</h3>
+                    <p>Selama saya berkuliah di Politeknik Negeri Bandung, saya mendapat keahlian baru, seperti bahasa pemrograman C, dan java. Berikut adalah beberapa keahlian yang saya miliki :</p>
+					<ul><li> Membuat Website Sederhana </li>
+						<li> Membuat Program sederhana menggunakan bahasa C</li>
+						<li> Cukup mahir menggunakan Ms. Word </li>
+						<li> Cukup mahir menggunakan Ms. Excel </li>
+						<li> Cukup mahir menggunakan Ms. PowerPoint </li>
+					</ul>
+					<p> Saya juga pernah mempelajari beberapa Bahasa Pemrograman, dan Bahasa Pemrograman yang pernah saya pelajari adalah sebagai berikut :</p>
+					<ul> 
+						<li> HTML </li>
+						<li> PHP </li>
+						<li> Javascript </li>
+						<li> Bahasa C </li>
+						<li> Java </li>
+					</ul><br>
+					<h4> Leasson Learn</h4>
+					<p> Leasson Learn yang saya dapat selama perkuliahan Proyek 1 adalah sebagai berikut :</p>
+					<ol>
+						<li> Mampu melakukan Instalasi dan konfigurasi aplikasi Git </li>
+						<li> Mampu membuat website sederhana </li>
+						<li> Dapat mengunggah website yang saya buat ke github </li>
+					</ol>
+					<h3> Sisipan Video </h3>
+					<video width="640" src="assets/image/Doraemon.mp4" controls></video>
+					<br>
+					<h3> Peta Lokasi </h3>
+					<iframe src=”https://goo.gl/maps/191FmegEKqP4qz2C7″ width=”600″ height=”450″ frameborder=”0″ style=”border:0″ allowfullscreen></iframe>
+					
+					</section>
+                </article>
+            </div>
+            <aside>
+                <article class="kontak card">
+                    <header><h2>Kontak saya</h2>
+                      <figure>
+                        <img src="assets/image/me.jpeg" class="profile">
+                      </figure>
+                    </header>
+                    <h3> Mentari Ayu Alysia Sudrajat</h3><br>
+                       <table align="center">
+                         
+                         <tr>
+                             <td><img class="logo-img" src="assets/image/logo/IG.png" alt="Instagram"></td>
+                             <td> @mentarialysias</td>
+                         </tr>
+                         <tr> 
+                            <td><img src="assets/image/logo/FB.png" alt="Facebook" class="logo-img"></td>
+                            <td>
+                             Mentari Ayu Alysia S
+                            </td>
+                         </tr>
+                         <tr>
+                             <td><img class="logo-img" src="assets/image/logo/Gmail.png" alt="Gmail"></td>
+                             <td>
+                                 mentariayualysias@gmail.com
+                             </td>
+                         </tr>
+                         <tr>
+                             <td><img class="loc" src="assets/image/logo/Loc.png"></td>
+                             <td align="justify">
+                                 Majalaya, Kab. Bandung (40383)
+                             </td>
+                         </tr>
+                       </table>
+                       
+                    
+                
+                </article>
+            </aside>
+        </main>
+        <footer>
+            <p>
+            Mentari Ayu Alysia Sudrajat &#169;2022</p>
+            <marquee> <a href="https://Instagram.com/mentarialysias"><img class="footer-img" src="assets/image/IG.png"></a>
+					  <a href="https://Facebook.com/mentari.alysia"><img class="footer-img" src="assets/image/FB.png"></a>
+			</marquee>
+		</footer>
+        <script src="assets/script/script.js">
+        </script>
+    </body>
+    
+</html>
